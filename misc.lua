@@ -1,5 +1,3 @@
-local floor = math.floor
-
 --- Gets the 32-bit ARGB value of given color components
 ---@param a integer Alpha
 ---@param r integer Red
